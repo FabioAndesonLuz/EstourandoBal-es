@@ -1,2 +1,2 @@
-# EstourandoBal-es
+# EstourandoBalões
 Jogo de estourar balões 
